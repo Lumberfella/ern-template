@@ -1,3 +1,12 @@
+# ERN Template
+
+A project template using Express, React and NodeJS. 
+
+Create a new project with this template using this command:
+```
+git clone https://github.com/Lumberfella/ern-template.git <project_name>
+```
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
